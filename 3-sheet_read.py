@@ -14,3 +14,4 @@ for i in range(2, 6):
     am = sheet['B%s' %i].value
     bt = sheet['C%s' %i].value
     print('Em {0} o Aston Martin vendeu {1} e o Bentley vendeu {2}'.format(ano, am, bt))
+    
