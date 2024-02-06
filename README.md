@@ -1,6 +1,6 @@
 # Automação de Planilhas com Python
 
-Este repositório contém um estudo de caso sobre automação de planilhas utilizando Python para a XYZ Corporation International, uma revendedora de automóveis de luxo sediada em São Paulo. O objetivo é apresentar os resultados da equipe comercial para o novo CEO da empresa, fornecendo informações sobre as vendas de carros por fabricante ao longo dos anos.
+Este repositório contém um estudo de caso sobre automação de planilhas utilizando Python para uma Empresa X, uma revendedora de automóveis de luxo sediada em São Paulo. O objetivo é apresentar os resultados da equipe comercial para o novo CEO da empresa, fornecendo informações sobre as vendas de carros por fabricante ao longo dos anos.
 
 ## Fonte de Dados
 
